@@ -18,7 +18,9 @@ pip install selenium webdriver-manager
 
 3. Run tests:
 python login_test.py
+
 python add_to_cart_test.py
+
 python checkout_test.py
 
 ## Challenges & Learnings
